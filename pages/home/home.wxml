@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<text class="title">hello world</text>
+<image src="images/yanlingji.jpg" class="yan"></image>
+<text>这是个测试版</text>
